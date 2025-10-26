@@ -1,0 +1,8 @@
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# Temporary files
+*.tmp
